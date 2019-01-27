@@ -9,7 +9,10 @@ This is a time management tool based on tkinter.
 
 ## How to Start
 
-* **``python main.py``**
+* **Windows**
+    ** run ``tomato_clock.vbs``**
+* **Not Windows**
+    **``python main.py``**
 
 
 ## Clock
